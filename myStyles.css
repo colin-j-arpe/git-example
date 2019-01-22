@@ -7,6 +7,10 @@ nav     {
     text-decoration: none;
 }
 
+span    {
+    letter-spacing: 2px;
+}
+
 li  {
     font-weight: bold;
 }
