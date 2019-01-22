@@ -2,6 +2,10 @@ div     {
     display: block;
 }
 
+p   {
+    line-height: 2;
+}
+
 nav     {
     text-decoration: none;
 }
@@ -9,3 +13,4 @@ nav     {
 li  {
     font-weight: bold;
 }
+
